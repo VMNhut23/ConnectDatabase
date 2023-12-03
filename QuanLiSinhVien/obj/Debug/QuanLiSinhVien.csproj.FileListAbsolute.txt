@@ -1,0 +1,10 @@
+C:\Users\pc\Downloads\QuanLiSinhVien\QuanLiSinhVien\bin\Debug\QuanLiSinhVien.exe.config
+C:\Users\pc\Downloads\QuanLiSinhVien\QuanLiSinhVien\bin\Debug\QuanLiSinhVien.exe
+C:\Users\pc\Downloads\QuanLiSinhVien\QuanLiSinhVien\bin\Debug\QuanLiSinhVien.pdb
+C:\Users\pc\Downloads\QuanLiSinhVien\QuanLiSinhVien\obj\Debug\QuanLiSinhVien.csproj.AssemblyReference.cache
+C:\Users\pc\Downloads\QuanLiSinhVien\QuanLiSinhVien\obj\Debug\QuanLiSinhVien.Form1.resources
+C:\Users\pc\Downloads\QuanLiSinhVien\QuanLiSinhVien\obj\Debug\QuanLiSinhVien.Properties.Resources.resources
+C:\Users\pc\Downloads\QuanLiSinhVien\QuanLiSinhVien\obj\Debug\QuanLiSinhVien.csproj.GenerateResource.cache
+C:\Users\pc\Downloads\QuanLiSinhVien\QuanLiSinhVien\obj\Debug\QuanLiSinhVien.csproj.CoreCompileInputs.cache
+C:\Users\pc\Downloads\QuanLiSinhVien\QuanLiSinhVien\obj\Debug\QuanLiSinhVien.exe
+C:\Users\pc\Downloads\QuanLiSinhVien\QuanLiSinhVien\obj\Debug\QuanLiSinhVien.pdb
